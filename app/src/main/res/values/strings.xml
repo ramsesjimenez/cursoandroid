@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">app01</string>
+    <string name="app_saludos">Hola Mundo!!</string>
+    <string name="hola_master_app">Hola Master App</string>
+    <string name="c_dula">Cédula</string>
+    <string name="cedula">cedula</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="telefono">telefono</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="a_pellido">apellido</string>
+    <string name="direcci_n">Dirección</string>
+    <string name="direccion">direccion</string>
+    <string name="ok">Ok</string>
+    <string name="salir">Salir</string>
+</resources>
